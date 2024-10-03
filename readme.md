@@ -1,3 +1,7 @@
+``` 
+uvicorn main:app --host 0.0.0.0 --port 8000 --reload
+```
+
 ## Test Classification Report
 ```
               precision    recall  f1-score   support
